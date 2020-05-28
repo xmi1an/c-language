@@ -30,7 +30,7 @@ int main()
     printf("Total Marks = %d \n", total);
 
     per = total / 5;
-    printf("Percentage = %d \n\n", per);
+    printf("Percentage = %f \n\n", per);
 
     if (per >= 70)
         printf("Grade = A");
