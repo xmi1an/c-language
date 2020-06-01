@@ -7,12 +7,12 @@ int main()
     const float kilogram = 0.453592;
 
     printf("\n\n************ All in One Converter 2020 ***************");
-    printf("\n\n 1.Doller -> Ruppes");
-    printf("\n\n 2.Rupees -> Doller");
-    printf("\n\n 3.Centimeters  -> Feet");
-    printf("\n\n 4.Kilometer  -> Feet");
-    printf("\n\n 5.Pound  -> Kilogram");
-    printf("\n\n 6.Ferenhit  -> Celcius");
+    printf("\n\n 1. Doller -> Ruppes");
+    printf("\n\n 2. Rupees -> Doller");
+    printf("\n\n 3. Centimeters  -> Feet");
+    printf("\n\n 4. Kilometer  -> Feet");
+    printf("\n\n 5. Pound  -> Kilogram");
+    printf("\n\n 6. Fahrenheit  -> Celcius");
     printf("\n\n 0. Exit");
     printf("\n\nEnter your choice : ");
     scanf("%d", &ch);
